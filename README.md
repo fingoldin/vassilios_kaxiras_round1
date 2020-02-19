@@ -1,6 +1,6 @@
 # SatireV Tech Comp Round 1
 
-This script takes a block of input text from a file and replaces most nouns with their short definitions from urban dictionary. 
+This script takes a block of input text from a file and replaces most nouns with their short definitions from Urban Dictionary. 
 
 ## Usage
 
@@ -8,4 +8,4 @@ This script takes a block of input text from a file and replaces most nouns with
 
 ## Examples
 
-The provided `.txt` files give examples blocks of text. `ind.txt` (The Declaration of Independence) is particularly funny.
+The provided `.txt` files give example blocks of text. `ind.txt` (The Declaration of Independence) is particularly funny.
